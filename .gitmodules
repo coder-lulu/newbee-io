@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/coder-lulu/newbee-io-api.git
+[submodule "rpc"]
+	path = rpc
+	url = https://github.com/coder-lulu/newbee-io-rpc.git
